@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hum:home|Door43 (hum)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hum|d43-hum repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hum/archive/master.zip|d43-hum.zip]]
+
+**Recent Changes**
+{{changes>ns = hum}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hum|Ethnologue data]]
+
